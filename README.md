@@ -12,7 +12,7 @@ The goal of this program is to find the bottom height profil of a drop held by i
 
 ## Method principle
 
-To find this shape, we sent a fringed pictured on the surface thanks to an optic system and get images like that.
+To find this shape, we sent a fringe picture on the surface thanks to an optic system and get images like that.
 
 ![](https://github.com/Vinwcent/Fringe-reprojection-deep-learning-model/blob/main/Presentations_pics/fringe-example.png)
 
