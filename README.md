@@ -7,5 +7,5 @@ This program is part of a PSE project at ESPCI PARIS PSL.
 The goal of this program is to find the bottom height profil of a drop held by its own vapor (Leidenfrost Effect)
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Vinwcent/Fringe-reprojection-deep-learning-modelPresentations_pics/Leiden.PNG" width=20% height=20%>
+  <img src="https://raw.githubusercontent.com/Vinwcent/Fringe-reprojection-deep-learning-model/Presentations_pics/Leiden.PNG" width=20% height=20%>
 </p>
