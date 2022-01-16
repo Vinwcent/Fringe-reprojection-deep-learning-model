@@ -2,7 +2,7 @@
 
 This program is part of a PSE project at ESPCI PARIS PSL.
 
-The model is made with tensorflow 2.6
+The model is made with tensorflow-macos 2.7, the presentation will be succinct since I'm still working to improve the model performance, here is a quick review so that you understand what it is and if it could be interesting for your project.
 
 ## Goal
 
@@ -23,3 +23,13 @@ Thanks to the deep learning model in this folder, we can find the height profile
 It is simply a U-net neural network with some convolutional layer at the end to extract high frequency fringes informations that were missed without them.
 
 ![](https://github.com/Vinwcent/Fringe-reprojection-deep-learning-model/blob/main/Presentations_pics/unet.png)
+
+## Training
+
+We use a data generator that is based on the data generator of this [article](https://www.osapublishing.org/DirectPDFAccess/8FDD3FF1-19CE-4BC5-820D98B70EAF6503_459819/oe-29-20-32547.pdf?da=1&id=459819&seq=0&mobile=no)
+
+Datagenerator projects a given fringe model onto a randomly generated (with matrix interpolation) height-map.
+
+![](https://github.com/Vinwcent/Fringe-reprojection-deep-learning-model/blob/main/Presentations_pics/projection.png)
+
+© Vinwcent
