@@ -1,6 +1,6 @@
 # Fringe-reprojection-deep-learning-model
 
-This program is part of a PSE project at ESPCI PARIS PSL.
+This program is part of a PSE project at ![](https://github.com/Vinwcent/Fringe-reprojection-deep-learning-model/blob/main/Presentations_pics/logo.png)
 
 The model is made with tensorflow-macos 2.7, the presentation will be succinct since I'm still working to improve the model performance, here is a quick review so that you understand what it is and if it could be interesting for your project.
 
