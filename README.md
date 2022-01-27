@@ -32,4 +32,5 @@ Datagenerator projects a given fringe model onto a randomly generated (with matr
 
 ![](https://github.com/Vinwcent/Fringe-reprojection-deep-learning-model/blob/main/Presentations_pics/projection.png)
 
+
 © Vinwcent
