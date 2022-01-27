@@ -26,7 +26,7 @@ It is simply a U-net neural network with some convolutional layer at the end to 
 
 ## Training
 
-We use a data generator that is based on the data generator of this [article](https://www.osapublishing.org/DirectPDFAccess/8FDD3FF1-19CE-4BC5-820D98B70EAF6503_459819/oe-29-20-32547.pdf?da=1&id=459819&seq=0&mobile=no)
+We use a data generator that is based on the data generator of this [article](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-20-32547&id=459819)
 
 Datagenerator projects a given fringe model onto a randomly generated (with matrix interpolation) height-map.
 
