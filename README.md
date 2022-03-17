@@ -6,7 +6,7 @@ The model is made with tensorflow-macos 2.7, the presentation will be succinct s
 
 ## Goal
 
-The goal of this program is to find the bottom height profil of a drop held by its own vapor (Leidenfrost Effect)
+The goal of this program is to find the bottom height profile of a drop held by its own vapor (Leidenfrost Effect)
 
 ![](https://github.com/Vinwcent/Fringe-reprojection-deep-learning-model/blob/main/Presentations_pics/Leiden.png)
 
